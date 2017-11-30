@@ -160,4 +160,20 @@
         tools:layout_editor_absoluteX="313dp"
         tools:layout_editor_absoluteY="93dp" />
 
+    <Button
+        android:id="@+id/btc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="236dp" />
+
+    <Button
+        android:id="@+id/btDEL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DEL"
+        tools:layout_editor_absoluteX="194dp"
+        tools:layout_editor_absoluteY="317dp" />
+
 </android.support.constraint.ConstraintLayout>
