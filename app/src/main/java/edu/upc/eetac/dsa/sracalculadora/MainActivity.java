@@ -168,6 +168,8 @@ public class MainActivity extends AppCompatActivity {
         operan1=res;
     }
 
+    // prova passw
+
     public void clear (View v){
         pant.setText("");
         operan1=0.0;
